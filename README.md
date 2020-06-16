@@ -1,10 +1,12 @@
 # Novo Site da PG3D
 
 =======================================================
+
   * Template Name: BizPage - v3.0.0
   * Template URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
   * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
+  * License: https://bootstrapmade.com/license
+
 ========================================================
 
   - Updated Bootstrap to version 4.5.0
